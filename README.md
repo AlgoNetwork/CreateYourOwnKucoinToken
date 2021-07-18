@@ -5,5 +5,5 @@ Create your own Kucoin token with one click.
 2.Inastll Metamask.<br>
 3.Send some BNB to metamask account.<br>
 
-4.deploy Binance token:
-https://algonetwork.github.io/CreateYourOwnBinanceToken/
+4.deploy Kucoin token:
+https://algonetwork.github.io/CreateYourOwnKucoinToken/
